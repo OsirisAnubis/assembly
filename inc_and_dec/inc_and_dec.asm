@@ -1,0 +1,2 @@
+inc eax
+dec eax
