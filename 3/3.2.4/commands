@@ -1,0 +1,9 @@
+mov	eax, ebx
+mov	ecx, 5
+________
+section .text
+; ...
+	mov [count], eax
+	mov edx, [count]
+	mov edx, count
+	mov edx, 40f2a008h
