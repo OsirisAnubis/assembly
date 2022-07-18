@@ -1,0 +1,25 @@
+mul - умножение знаковых
+imul - умножение беззнаковых
+
+div - деление беззнаковых
+idiv - деление знаковых
+
+cbw - convert byte to word
+cwd - convert word to doubleword
+cdq - convert dword to qword
+
+jmp - jamp
+
+jmp cycle
+jmp eax
+jmp [addr]
+
+jmp [eax]
+
+jnge - jump if not greater or equal
+jb - jump if below
+jnae - jump if not above or equal 
+
+jcxz - jump if CX zero
+jecxz - jump if ECX zero
+

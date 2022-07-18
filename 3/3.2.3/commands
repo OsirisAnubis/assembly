@@ -4,3 +4,7 @@ x	resd 1
 ____________
 fibon	dw 1, 1, 2, 3, 5, 8, 13, 21
 welmsg	db 'Welcome to Cyberspace!'
+
+array		resb	20
+mesage	db		'hello, my name is Oleg'
+
